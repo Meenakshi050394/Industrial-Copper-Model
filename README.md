@@ -31,4 +31,4 @@ The following skills were acquired from the project:
 #### Streamlit
 
 ## Conclusion
-The goal of this project is to create an intuitive Streamlit application where we can able to analyze the noisy data using machine learning regression model can address these issues by utilizing advanced techniques and a lead classification model is a system for evaluating and classifying leads based on how likely they are to become a customer.
+The goal of this project is to create an atractive Streamlit application where we can able to analyze the noisy data using machine learning regression model can address these issues by utilizing advanced techniques and a lead classification model is a system for evaluating and classifying leads based on how likely they are to become a customer.
