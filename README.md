@@ -25,7 +25,7 @@ Manufacturing
 ## Take Away Skills
 The following skills were acquired from the project:
 
-Python scripting
+#### Python scripting
 #### Data Preprocessing
 #### EDA
 #### Streamlit
