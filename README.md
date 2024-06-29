@@ -7,6 +7,14 @@ The copper industry deals with less complex data related to sales and pricing. H
 ## Overview
 This project aims to analyze the noisy data using machine learning regression model can address these issues by utilizing advanced techniques and a lead classification model is a system for evaluating and classifying leads based on how likely they are to become a customer.
 
+### Usage
+To use this project, follow these steps:
+
+#### Clone the repository: git clone https://github.com/Meenakshi050394/Industrial-Copper-Model.git
+#### Run the Streamlit app: streamlit run singapore_FPA.py
+#### Access the app in your browser at http://localhost:8501/
+
+
 ## Regression Model
 The copper industry deals with less complex data related to sales and pricing. However, this data may suffer from issues such as skewness and noisy data, which can affect the accuracy of manual predictions. Dealing with these challenges manually can be time-consuming and may not result in optimal pricing decisions. A machine learning regression model can address these issues by utilizing advanced techniques such as data normalization, outlier detection and handling, handling data in wrong format, identifying the distribution of features, and leveraging tree-based models, specifically the decision tree algorithm.
 
