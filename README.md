@@ -46,8 +46,3 @@ The goal of this project is to create an atractive Streamlit application where w
 
 🌐 LinkedIn: https://www.linkedin.com/in/meenakshihariharakrishnan/
 
-
-## Contact:
-📧 Email: meenakshi.sriram18@gmail.com
-
-🌐 LinkedIn: https://www.linkedin.com/in/meenakshihariharakrishnan/
